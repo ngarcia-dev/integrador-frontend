@@ -1,0 +1,39 @@
+.navbar-brand img {
+    display: flex;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  
+.font-p ,.fa-terminal, .fa{
+    font-family: 'Press Start 2P', cursive;
+    -webkit-text-stroke: 1px rgb(0, 247, 255);
+}
+
+.font-s{
+    font-family: 'Fira Code', monospace;
+    -webkit-text-stroke: 1px;
+    font-weight:bold;
+}
+
+.img{
+    border-radius: 10px;
+}
+
+.pag-1{
+    padding-top: 20vh;
+}
+
+.about{
+    padding-bottom: 20vh;
+}
+
+.iconos{
+    text-decoration: none !important;
+    outline: none !important;
+    color: black !important;
+}
+
+.perfil{
+    border-radius: 50%;
+}
